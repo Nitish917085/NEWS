@@ -1,0 +1,11 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "A news wensite where one can see their local news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
